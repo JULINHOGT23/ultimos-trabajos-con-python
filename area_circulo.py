@@ -9,3 +9,6 @@ p = math.pi
 
 # calculamos el valor del area
 area = math.pi*(radio^2)
+
+# mostramos el resultado
+print("el area del circulo es: ",area)
