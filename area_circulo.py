@@ -6,3 +6,6 @@ radio = int(input("ingresa el valor del radio : "))
 # importamos el valor de pi
 import math
 p = math.pi
+
+# calculamos el valor del area
+area = math.pi*(radio^2)
